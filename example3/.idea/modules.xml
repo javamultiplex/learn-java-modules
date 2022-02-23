@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hello.api/hello.api.iml" filepath="$PROJECT_DIR$/hello.api/hello.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello.api.impl.eng/hello.api.impl.eng.iml" filepath="$PROJECT_DIR$/hello.api.impl.eng/hello.api.impl.eng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello.api.impl.fr/hello.api.impl.fr.iml" filepath="$PROJECT_DIR$/hello.api.impl.fr/hello.api.impl.fr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java9-modules-example2.iml" filepath="$PROJECT_DIR$/java9-modules-example2.iml" />
+    </modules>
+  </component>
+</project>
